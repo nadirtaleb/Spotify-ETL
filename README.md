@@ -88,5 +88,3 @@ pytest tests/
 
 MIT 
 =======
-# Spotify-ETL
->>>>>>> f6c815ba2e82c3cd5ceb3a73c46ce7546afbb55f
