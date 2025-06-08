@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Spotify ETL Pipeline
 
 This project implements an ETL (Extract, Transform, Load) pipeline for Spotify listening data. It automatically fetches your recently played tracks, enriches them with audio features, and stores them in a SQLite database.
